@@ -1,0 +1,5 @@
+#columnDiv{
+    column-count: 2;
+    width: 420px;
+    margin-left: 30px;
+}
